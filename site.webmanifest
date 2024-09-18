@@ -2,7 +2,7 @@
     "name": "Medicare Hospital",
     "short_name": "Medicare",
     "description": "Your Trusted Healthcare Partner",
-    "start_url": "/index.html",
+    "start_url": "https://saadriz123.github.io/hospital/index.html",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#000080",
